@@ -1,0 +1,13 @@
+name: WorldEditLite
+version: 1.0
+author: commandf1
+main: top.globerealm.worldeditlite.Main
+folia-supported: true
+api-version: "1.20.6"
+commands:
+  /set:
+    description: the command used to replace blocks
+    usage: /<command> <blockId>
+permissions:
+  worldeditlite.use:
+    description: the permission that allows to use world edit lite
