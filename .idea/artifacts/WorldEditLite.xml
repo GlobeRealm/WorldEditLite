@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldEditLite">
+    <output-path>$PROJECT_DIR$/out/artifacts/WorldEditLite</output-path>
+    <root id="archive" name="WorldEditLite.jar">
+      <element id="module-output" name="WorldEditLite" />
+    </root>
+  </artifact>
+</component>
